@@ -1,0 +1,8 @@
+body { font-family: sans-serif; max-width: 700px; margin: 40px auto; padding: 0 20px; }
+table { width: 100%; border-collapse: collapse; margin-top: 10px; }
+th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
+th { background: #f0f0f0; }
+.ok  { color: green; font-weight: bold; }
+.err { color: red;   font-weight: bold; }
+input { padding: 6px; margin: 4px 0; width: 100%; box-sizing: border-box; }
+button { padding: 8px 20px; margin-right: 8px; cursor: pointer; }
